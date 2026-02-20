@@ -26,6 +26,6 @@ gaycowboy.work is a space for personal essays, reflections, and stories about na
 pnpm install
 
 # Start development server
-pnpm dev
+pnpm dev --host
 # Site runs at http://localhost:3000
 
